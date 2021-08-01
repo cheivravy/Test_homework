@@ -1,0 +1,24 @@
+E:\testC#\SchoolMenagerment\SchoolMenagerment\bin\Debug\SchoolMenagerment.exe.config
+E:\testC#\SchoolMenagerment\SchoolMenagerment\bin\Debug\SchoolMenagerment.exe
+E:\testC#\SchoolMenagerment\SchoolMenagerment\bin\Debug\SchoolMenagerment.pdb
+E:\testC#\SchoolMenagerment\SchoolMenagerment\obj\Debug\SchoolMenagerment.csprojResolveAssemblyReference.cache
+E:\testC#\SchoolMenagerment\SchoolMenagerment\obj\Debug\SchoolMenagerment.Properties.Resources.resources
+E:\testC#\SchoolMenagerment\SchoolMenagerment\obj\Debug\SchoolMenagerment.csproj.GenerateResource.Cache
+E:\testC#\SchoolMenagerment\SchoolMenagerment\obj\Debug\SchoolMenagerment.exe
+E:\testC#\SchoolMenagerment\SchoolMenagerment\obj\Debug\SchoolMenagerment.pdb
+E:\testC#\SchoolMenagerment\SchoolMenagerment\obj\Debug\SchoolMenagerment.login.resources
+E:\testC#\SchoolMenagerment\SchoolMenagerment\obj\Debug\SchoolMenagerment.formhome.resources
+E:\testC#\SchoolMenagerment\SchoolMenagerment\obj\Debug\SchoolMenagerment.formClass.resources
+E:\testC#\SchoolMenagerment\SchoolMenagerment\obj\Debug\SchoolMenagerment.formTeacher.resources
+E:\testC#\SchoolMenagerment\SchoolMenagerment\obj\Debug\SchoolMenagerment.formRigistor.resources
+C:\Users\RVC\Desktop\New folder (2)\SchoolMenagerment\SchoolMenagerment\bin\Debug\SchoolMenagerment.exe.config
+C:\Users\RVC\Desktop\New folder (2)\SchoolMenagerment\SchoolMenagerment\obj\Debug\SchoolMenagerment.exe
+C:\Users\RVC\Desktop\New folder (2)\SchoolMenagerment\SchoolMenagerment\obj\Debug\SchoolMenagerment.pdb
+C:\Users\RVC\Desktop\New folder (2)\SchoolMenagerment\SchoolMenagerment\obj\Debug\SchoolMenagerment.csprojResolveAssemblyReference.cache
+C:\Users\RVC\Desktop\New folder (2)\SchoolMenagerment\SchoolMenagerment\obj\Debug\SchoolMenagerment.formClass.resources
+C:\Users\RVC\Desktop\New folder (2)\SchoolMenagerment\SchoolMenagerment\obj\Debug\SchoolMenagerment.formhome.resources
+C:\Users\RVC\Desktop\New folder (2)\SchoolMenagerment\SchoolMenagerment\obj\Debug\SchoolMenagerment.formRigistor.resources
+C:\Users\RVC\Desktop\New folder (2)\SchoolMenagerment\SchoolMenagerment\obj\Debug\SchoolMenagerment.formTeacher.resources
+C:\Users\RVC\Desktop\New folder (2)\SchoolMenagerment\SchoolMenagerment\obj\Debug\SchoolMenagerment.login.resources
+C:\Users\RVC\Desktop\New folder (2)\SchoolMenagerment\SchoolMenagerment\obj\Debug\SchoolMenagerment.Properties.Resources.resources
+C:\Users\RVC\Desktop\New folder (2)\SchoolMenagerment\SchoolMenagerment\obj\Debug\SchoolMenagerment.csproj.GenerateResource.Cache
